@@ -20,13 +20,13 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  min-height: 780px;
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
-    width: 100%;
+    width: 150%;
   }
 
 @media only screen and (max-width : 992px) {
@@ -39,7 +39,7 @@ p {
   }
 }
 
-@media only screen and (max-width : 600px) {
+@media only screen and (max-width : 800px) {
   #index-banner .section {
     top: 0;
   }

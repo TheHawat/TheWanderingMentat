@@ -62,3 +62,4 @@ F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMenta
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\ref\TheWanderingMentat.dll
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.WebsiteText.resources
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.csproj.GenerateResource.cache
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.WebsiteTextPl.resources
