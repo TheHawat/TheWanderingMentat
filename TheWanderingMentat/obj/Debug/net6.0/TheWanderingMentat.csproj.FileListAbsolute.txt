@@ -61,9 +61,9 @@ F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMenta
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.genruntimeconfig.cache
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\ref\TheWanderingMentat.dll
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.csproj.GenerateResource.cache
-F:\Code\TheWanderingMentat\TheWanderingMentat\bin\Debug\net6.0\en-US\TheWanderingMentat.resources.dll
-F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Controllers.HomeController.en-US.resources
-F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\en-US\TheWanderingMentat.resources.dll
-F:\Code\TheWanderingMentat\TheWanderingMentat\bin\Debug\net6.0\pl-PL\TheWanderingMentat.resources.dll
-F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Controllers.HomeController.pl-PL.resources
-F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\pl-PL\TheWanderingMentat.resources.dll
+F:\Code\TheWanderingMentat\TheWanderingMentat\bin\Debug\net6.0\en\TheWanderingMentat.resources.dll
+F:\Code\TheWanderingMentat\TheWanderingMentat\bin\Debug\net6.0\pl\TheWanderingMentat.resources.dll
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Resources.Views.Home.Index.en.resources
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Resources.Views.Home.Index.pl.resources
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\en\TheWanderingMentat.resources.dll
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\pl\TheWanderingMentat.resources.dll

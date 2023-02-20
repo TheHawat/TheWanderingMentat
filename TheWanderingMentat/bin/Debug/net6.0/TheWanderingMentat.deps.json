@@ -11,8 +11,11 @@
           "TheWanderingMentat.dll": {}
         },
         "resources": {
-          "en-US/TheWanderingMentat.resources.dll": {
-            "locale": "en-US"
+          "en/TheWanderingMentat.resources.dll": {
+            "locale": "en"
+          },
+          "pl/TheWanderingMentat.resources.dll": {
+            "locale": "pl"
           }
         }
       }

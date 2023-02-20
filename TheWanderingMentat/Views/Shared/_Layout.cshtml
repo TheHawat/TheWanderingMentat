@@ -25,17 +25,26 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="PuzzleBalls">PuzzleBalls</a>
+                        </li>
                     </ul>
                     <ul class="navbar-nav flex-grow-1 custom-nav">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="" asp-route-lang="EN">
-                                <img src="~/usflag.png" alt="English" class="img-flag">
-                            </a>
+                            <form asp-action="ChangeLanguage" asp-controller="Home" method="post">
+                                <input type="hidden" name="newLang" value="en" />
+                                <button type="submit" style="border: none; background: none; padding: 0;">
+                                    <img src="~/usflag.png" alt="English" class="img-flag" />
+                                </button>
+                            </form>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="" asp-route-lang="PL">
-                                <img src="~/plflag.png" alt="Polski" class="img-flag">
-                            </a>
+                            <form asp-action="ChangeLanguage" asp-controlle r="Home" method="post">
+                                <input type="hidden" name="newLang" value="pl" />
+                                <button type="submit" style="border: none; background: none; padding: 0;">
+                                    <img src="~/plflag.png" alt="Polski" class="img-flag" />
+                                </button>
+                            </form>
                         </li>
                     </ul>
                 </div>
