@@ -9,6 +9,11 @@
       "TheWanderingMentat/1.0.0": {
         "runtime": {
           "TheWanderingMentat.dll": {}
+        },
+        "resources": {
+          "en-US/TheWanderingMentat.resources.dll": {
+            "locale": "en-US"
+          }
         }
       }
     }

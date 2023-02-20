@@ -1,15 +1,18 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.Localization;
+using Microsoft.AspNetCore.Localization;
 using System.Diagnostics;
 using TheWanderingMentat.Models;
+using Microsoft.Extensions.Localization;
 
 namespace TheWanderingMentat.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
         public HomeController(ILogger<HomeController> logger) {
             _logger = logger;
+            
         }
 
         public IActionResult Index() {

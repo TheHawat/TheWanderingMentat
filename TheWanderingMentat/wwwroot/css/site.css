@@ -16,3 +16,17 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.img-flag {
+    width: 40px;
+    height: auto;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
+    border: 1px solid #ccc;
+
+}
+
+.custom-nav {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+}

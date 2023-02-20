@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TheWanderingMentat {
+namespace TheWanderingMentat.Controllers {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace TheWanderingMentat {
         public static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TheWanderingMentat.WebsiteText", typeof(WebsiteText).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TheWanderingMentat.Controllers.WebsiteText", typeof(WebsiteText).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;
