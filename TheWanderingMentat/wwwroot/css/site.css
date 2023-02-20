@@ -30,3 +30,7 @@ body {
     justify-content: flex-end;
     margin-left: auto;
 }
+.navbar {
+    position: fixed;
+    top: 0;
+}
