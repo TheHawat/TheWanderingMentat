@@ -1,20 +1,20 @@
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 
 @media (min-width: 1000px) {
-  html {
-    font-size: 16px;
-  }
+    html {
+        font-size: 16px;
+    }
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    margin-bottom: 60px;
 }
 
 .img-flag {
@@ -22,7 +22,6 @@ body {
     height: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.3);
     border: 1px solid #ccc;
-
 }
 
 .custom-nav {
@@ -30,7 +29,27 @@ body {
     justify-content: flex-end;
     margin-left: auto;
 }
+
 .navbar {
     position: fixed;
     top: 0;
+    height: 60px;
+    width: 100%;
+    z-index: 9999;
+}
+
+.pb-3 {
+    padding-top: 60px;
+    width: 1300px;
+}
+
+body {
+    display: block;
+    margin: 0 auto;
+}
+
+.left-align.light {
+    text-align: justify;
+    font-weight: 450;
+    font-size: large;
 }

@@ -46,7 +46,7 @@
                             </form>
                         </li>
                         <li class="nav-item">
-                            <form asp-action="ChangeLanguage" asp-controlle r="Home" method="post">
+                            <form asp-action="ChangeLanguage" asp-controller="Home" method="post">
                                 <input type="hidden" name="newLang" value="pl" />
                                 <button type="submit" style="border: none; background: none; padding: 0;">
                                     <img src="~/plflag.png" alt="Polski" class="img-flag" />
@@ -65,9 +65,6 @@
     </div>
 
     <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2023 - TheWanderingMentat - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
