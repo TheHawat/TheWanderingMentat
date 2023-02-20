@@ -118,28 +118,28 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Column1_Header" xml:space="preserve">
-    <value>Code</value>
+    <value>Kod</value>
   </data>
   <data name="Column1_Text" xml:space="preserve">
-    <value>Some of my code previews. Demonstration of adherence to  Clean Code principles in practice while designing algorithms.</value>
+    <value>Z przyjemnością prezentuję mój przykładowy kod, który dowodzi mojemu zaangażowaniu w stosowanie zasad Clean Code w projektowaniu algorytmów.</value>
   </data>
   <data name="Column2_Header" xml:space="preserve">
     <value>Skills and Experience</value>
   </data>
   <data name="Column2_Text" xml:space="preserve">
-    <value>See which technologies i have working experience with and which i learned and practiced on my own.</value>
+    <value>Odkryj moją biegłość w różnorodnych technologiach, w tym tych, które doskonaliłem poprzez zawodowe doświadczenie oraz te, które rozwijałem dzięki zaangażowaniu w personalne projekty.</value>
   </data>
   <data name="Column3_Header" xml:space="preserve">
-    <value>Hobbies</value>
+    <value>Zainteresowania</value>
   </data>
   <data name="Column3_Text" xml:space="preserve">
-    <value>Are you wondering what i do in my free time? Let me share my passion with you.</value>
+    <value>Ciekawy jesteś, co robię w wolnym czasie? Chętnie opowiem Ci o swoich pasjach!</value>
   </data>
   <data name="Column4_Header" xml:space="preserve">
-    <value>Workout App</value>
+    <value>Puzzle Balls</value>
   </data>
-  <data name="Columnt4_Text" xml:space="preserve">
-    <value>How good am I at Intergrating tech such as MVC, Entity Framework and algorithms implemented in C#? Click to find out.</value>
+  <data name="Column4_Text" xml:space="preserve">
+    <value>Z wielką radością prezentuję grę Unity, którą miałem przyjemność opracować wraz z moim bliskim przyjacielem, Bartoszem Krajka.</value>
   </data>
   <data name="Contact_Header" xml:space="preserve">
     <value>How to contact me</value>
