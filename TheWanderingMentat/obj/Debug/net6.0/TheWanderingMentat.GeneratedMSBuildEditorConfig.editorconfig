@@ -16,6 +16,18 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = F:\Code\TheWanderingMentat\TheWanderingMentat
 build_property._RazorSourceGeneratorDebug = 
 
+[F:/Code/TheWanderingMentat/TheWanderingMentat/Views/Home/Code.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb2RlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Code/TheWanderingMentat/TheWanderingMentat/Views/Home/CV.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDVi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/Code/TheWanderingMentat/TheWanderingMentat/Views/Home/Hobby.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxIb2JieS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [F:/Code/TheWanderingMentat/TheWanderingMentat/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

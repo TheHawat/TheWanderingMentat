@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nrHq5Ko5HGGlWTV42tyGwg+lWqFQreKPmnASewJSikA=",
+  "Hash": "oE4R0y/S9bup5Lxij+mMAgA3GMMRPSOZKF9yxcNjgog=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -68,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\background1.jpg"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.jpg",
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
       "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
-      "RelativePath": "background2.jpg",
+      "RelativePath": "background2.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -82,7 +82,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\background2.jpg"
+      "OriginalItemSpec": "wwwroot\\background2.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background3.jpg",

@@ -19,8 +19,16 @@ namespace TheWanderingMentat.Controllers
             return View();
         }
 
-
         public IActionResult Privacy() {
+            return View();
+        }
+        public IActionResult Code() {
+            return View();
+        }
+        public IActionResult Hobby() {
+            return View();
+        }
+        public IActionResult CV() {
             return View();
         }
         public IActionResult PuzzleBalls() {

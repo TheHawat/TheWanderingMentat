@@ -36,7 +36,6 @@
                 <br><br>
                 <h1 class="header left black-text text-lighten-2"><p>@localizer["Greeting"]</p></h1>
                 <div class="row center">
-                    
                 </div>
 
                 <br><br>
@@ -53,38 +52,46 @@
             <!--   Icon Section   -->
             <div class="row">
                 <div class="col s12 m4">
-                    <div class="icon-block">
-                        <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
-                        <h5 class="center">@localizer["Column1_Header"]</h5>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Code">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
+                            <h5 class="center">@localizer["Column1_Header"]</h5>
 
-                        <p class="light">@localizer["Column1_Text"]</p>
-                    </div>
+                            <p class="light">@localizer["Column1_Text"]</p>
+                        </div>
+                    </a>
                 </div>
 
                 <div class="col s12 m4">
-                    <div class="icon-block">
-                        <h2 class="center brown-text"><i class="material-icons">group</i></h2>
-                        <h5 class="center">@localizer["Column2_Header"]</h5>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CV">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
+                            <h5 class="center">@localizer["Column2_Header"]</h5>
 
-                        <p class="light">@localizer["Column2_Text"]</p>
-                    </div>
+                            <p class="light">@localizer["Column2_Text"]</p>
+                        </div>
+                    </a>
                 </div>
-                
-                <div class="col s12 m4">
-                    <div class="icon-block">
-                        <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-                        <h5 class="center">@localizer["Column3_Header"]</h5>
 
-                        <p class="light">@localizer["Column3_Text"]</p>
-                    </div>
+                <div class="col s12 m4">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hobby">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+                            <h5 class="center">@localizer["Column3_Header"]</h5>
+
+                            <p class="light">@localizer["Column3_Text"]</p>
+                        </div>
+                    </a>
                 </div>
                 <div class="col s12 m4">
-                    <div class="icon-block">
-                        <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
-                        <h5 class="center">@localizer["Column4_Header"]</h5>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="PuzzleBalls">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+                            <h5 class="center">@localizer["Column4_Header"]</h5>
 
-                        <p class="light">@localizer["Column4_Text"]</p>
-                    </div>
+                            <p class="light">@localizer["Column4_Text"]</p>
+                        </div>
+                    </a>
                 </div>
             </div>
 
@@ -100,7 +107,7 @@
                 </div>
             </div>
         </div>
-        <div class="parallax"><img src="background2.jpg" alt="Unsplashed background img 2"></div>
+        <div class="parallax"><img src="~/background2.png" alt="Unsplashed background img 2" style="height: 770px;"></div>
     </div>
 
 
