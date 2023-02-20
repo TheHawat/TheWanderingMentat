@@ -37,6 +37,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
+      "PackagePath": "staticwebassets\\icon_big.png"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
       "PackagePath": "staticwebassets\\js\\init.js"
     },

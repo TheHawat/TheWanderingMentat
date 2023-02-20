@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5CZBftJps369sBPJd3Pj3jTz/nC5s0YA3Ik5akltx1A=",
+  "Hash": "nrHq5Ko5HGGlWTV42tyGwg+lWqFQreKPmnASewJSikA=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -185,6 +185,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "icon_big.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icon_big.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",

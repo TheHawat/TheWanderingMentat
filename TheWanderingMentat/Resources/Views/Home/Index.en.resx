@@ -150,6 +150,12 @@
   <data name="Greeting" xml:space="preserve">
     <value>Meet Hawat!</value>
   </data>
+  <data name="Intro_Header" xml:space="preserve">
+    <value>The Wandering Mentat</value>
+  </data>
+  <data name="Intro_Text" xml:space="preserve">
+    <value>Welcome to my portfolio website. Thank you for taking the time to visit. Here, I showcase my skills and expertise in programming. I am excited to share my work with you, and I hope that you find my projects both engaging and impressive. Let's explore my portfolio together, and see how I can bring value to your next project. I have built this website using MVC 6.0, a modern and robust framework that allows for efficient and scalable web development. By utilizing this technology, I have created a website that is not only visually appealing, but also highly functional and user-friendly. I invite you to take a closer look at my projects, and see firsthand how my expertise in MVC 6.0 has allowed me to produce high-quality and innovative solutions.</value>
+  </data>
   <data name="Sub_Greeting" xml:space="preserve">
     <value>Test subgreet</value>
   </data>
