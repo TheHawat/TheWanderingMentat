@@ -1,5 +1,145 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link href="~/css/prism.css" rel="stylesheet" />
+</head>
+<body>
+
+
+
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col x1 center">
+                    <h4>@localizer["Codingame_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["Codingame_Body"]</p></h99>
+                </div>
+                <div class="col co1" style="float:right; padding-left: 20px; max-width:70%;">
+                    <pre>
+                    <code class="language-csharp">
+public string GetLongestPath() {
+    foreach (var node in _nodeAdjList) {
+        _nodeMaxDepth.Add(node.Key, TraverseGraph(node.Key, 0));
+    }
+    var MaxPath = _nodeMaxDepth.MaxBy(x => x.Value).Value;
+    return MaxPath.ToString();
 }
+
+private int TraverseGraph(int currentNode, int currentDepth) {
+    int Max = ++currentDepth;
+    foreach (var Node in _nodeAdjList[currentNode]) {
+        Max = Math.Max(TraverseGraph(Node, currentDepth), Max);
+    }
+    return Max;
+}
+                     </code>
+            </pre>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col x2 center">
+                    <h4>@localizer["PB_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["PB_Body"]</p></h99>
+                </div>
+                <div class="col co2" style="float:right; padding-left: 20px; max-width:70%;">
+                    <pre>
+                    <code class="language-csharp">
+public class LineBehaviour : MonoBehaviour{
+
+    [Inject] private SceneConfig _sceneConfig;
+    [Inject] private ProjectConfig _projectConfig;
+
+    public void LowerLine() {
+        if (this.CompareTag("Rope")) return;
+        Vector2 Position = this.transform.position;
+        Position.y -= _projectConfig.RowHeight;
+        this.transform.position = Position;
+    }
+                     </code>
+            </pre>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col x3 center">
+                    <h4>@localizer["CA_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["CA_Body"]</p></h99>
+                </div>
+                <div class="col co3" style="float:right; padding-left: 20px; max-width:70%;">
+                    <pre>
+                    <code class="language-csharp">
+ [TestMethod]
+        public void WholeProcess() {
+            StreamReader FileToImport = new StreamReader("TestData_CorrectFile.csv");
+            var Reader = new SchemaReader();
+            Reader.ImportSchema(FileToImport);
+            var StringWriter = new StringWriter();
+            Console.SetOut(StringWriter);
+            Reader.Print();
+            string ExpectedResult = File.ReadAllText("TestData_CorrectFile_Result.txt");
+            Assert.AreEqual(ExpectedResult, StringWriter.ToString().TrimEnd());
+        }
+
+                     </code>
+            </pre>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col x4 center">
+                    <h4>@localizer["TWM_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["TWM_Body"]</p></h99>
+                </div>
+                <div class="col co4" style="float:right; padding-left: 20px; max-width:70%;">
+                    <pre>
+                    <code class="language-csharp">
+inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+[HttpPost]
+public IActionResult ChangeLanguage(string newLang) {
+    Response.Cookies.Append(CookieRequestCultureProvider.DefaultCookieName,
+        CookieRequestCultureProvider.MakeCookieValue(new RequestCulture(newLang)),
+        new CookieOptions { Expires = DateTimeOffset.Now.AddDays(30) });
+    return RedirectToAction(nameof(Index));
+}
+
+                     </code>
+            </pre>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+    <script src="~/js/prism.js"></script>
+</body>
+<script>
+    Prism.highlightAll();
+</script>
+</html>

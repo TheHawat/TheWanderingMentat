@@ -67,3 +67,4 @@ F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMenta
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Resources.Views.Home.Index.pl.resources
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\en\TheWanderingMentat.resources.dll
 F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\pl\TheWanderingMentat.resources.dll
+F:\Code\TheWanderingMentat\TheWanderingMentat\obj\Debug\net6.0\TheWanderingMentat.Resources.Views.Home.Code.en.resources

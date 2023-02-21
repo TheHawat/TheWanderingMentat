@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\materialize.min.css"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
+      "PackagePath": "staticwebassets\\css\\prism.css"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -67,6 +71,10 @@
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.min.js",
       "PackagePath": "staticwebassets\\js\\materialize.min.js"
+    },
+    {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
+      "PackagePath": "staticwebassets\\js\\prism.js"
     },
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",

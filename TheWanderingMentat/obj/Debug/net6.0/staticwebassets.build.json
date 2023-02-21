@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "h4cNH3IBPsjjcrq0fwYOHALyGAfZ0MMjUiQ8ddMSoP4=",
+  "Hash": "5HAtcxxKk0xdZufiBX0wTsyZadAm1F4qC7lGmE/zjtc=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -170,6 +170,23 @@
       "OriginalItemSpec": "wwwroot\\css\\materialize.min.css"
     },
     {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "css/prism.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\prism.css"
+    },
+    {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
@@ -321,6 +338,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\materialize.min.js"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "js/prism.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\prism.js"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",
