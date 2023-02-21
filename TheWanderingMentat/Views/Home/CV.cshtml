@@ -3,3 +3,16 @@
 *@
 @{
 }
+<body>
+
+    <form method="post" asp-action="Move" asp-controller="CV">
+        <input type="hidden" name="squareId" value="red">
+        <button type="submit"><img id="red" class="image" src="~/red.png" alt="R"></button>
+    </form>
+    <a asp-area="" asp-controller="CVController" asp-action="Move" squareId="blue">
+        <img id="blue" class="image" src="~/blue.png" alt="B">
+    </a>
+
+</body>
+
+

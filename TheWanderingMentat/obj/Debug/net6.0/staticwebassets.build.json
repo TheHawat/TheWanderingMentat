@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4JLOSNhlbNeurFI/6nz8WB/rL4I+rXbuJXPujUk+tww=",
+  "Hash": "h4cNH3IBPsjjcrq0fwYOHALyGAfZ0MMjUiQ8ddMSoP4=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -100,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background3.jpg"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "background33.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background33.jpg"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "blue.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blue.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
@@ -219,6 +253,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\icon_big.png"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "js/FS.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FS.js"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
@@ -1273,6 +1324,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\plflag.png"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "red.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\red.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",

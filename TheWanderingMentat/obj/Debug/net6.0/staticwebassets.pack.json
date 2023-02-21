@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\background3.jpg"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
+      "PackagePath": "staticwebassets\\background33.jpg"
+    },
+    {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
+      "PackagePath": "staticwebassets\\blue.png"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
       "PackagePath": "staticwebassets\\css\\materialize.css"
     },
@@ -43,6 +51,10 @@
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
       "PackagePath": "staticwebassets\\icon_big.png"
+    },
+    {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
+      "PackagePath": "staticwebassets\\js\\FS.js"
     },
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
@@ -291,6 +303,10 @@
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
       "PackagePath": "staticwebassets\\plflag.png"
+    },
+    {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
+      "PackagePath": "staticwebassets\\red.png"
     },
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",

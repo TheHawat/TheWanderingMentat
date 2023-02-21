@@ -156,7 +156,10 @@
   <data name="Intro_Text" xml:space="preserve">
     <value>Witaj na mojej stronie portfolio. Dziękuję, że poświęciłeś(-aś) czas, by tu zajrzeć. Prezentuję tutaj swoje umiejętności i doświadczenie w programowaniu. Jestem szczęśliwy, że mogę podzielić się z Tobą moimi projektami i mam nadzieję, że okażą się one zarówno interesujące, jak i imponujące. Zapraszam do wspólnego zwiedzania mojego portfolio i zobaczenia, jak mogę przyczynić się do rozwoju Twojego projektu. Stronę tę stworzyłem za pomocą MVC 6.0 - nowoczesnego i solidnego frameworka. Dzięki wykorzystaniu tej technologii udało mi się stworzyć stronę, która jest nie tylko estetyczna, ale również funkcjonalna i łatwa w użytkowaniu. Zachęcam Cię do bliższego przyjrzenia się moim projektom i przekonania się na własnej skórze, jak moje doświadczenie w MVC 6.0 pozwala mi produkować wysokiej jakości i innowacyjne rozwiązania.</value>
   </data>
-  <data name="Sub_Greeting" xml:space="preserve">
-    <value>Test subgreet</value>
+  <data name="TeamPlayer_Body" xml:space="preserve">
+    <value>Jako gracz zespołowy, priorytetowo traktuję skuteczną komunikację w celu budowania mocnych relacji i osiągania sukcesu. Potrafię jasno wyrażać swoje pomysły i aktywnie słuchać pomysłów innych. Uważam, że otwarta komunikacja jest kluczem do znajdywania kreatywnych rozwiązań i przyczynia się do pozytywnej dynamiki zespołu. Rozumiem również jak ważne jest utrzymanie profesjonalnego wizerunku zespołu i firmy. Dążę do utrzymywania wysokich standardów profesjonalizmu we wszelkich moich kontaktach i interakcjach.</value>
+  </data>
+  <data name="TeamPlayer_Header" xml:space="preserve">
+    <value>Komunikacja</value>
   </data>
 </root>
