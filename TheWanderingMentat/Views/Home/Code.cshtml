@@ -14,7 +14,7 @@
     <div class="container">
         <div class="section">
             <div class="row">
-                <div class="col x1 center">
+                <div class="col x1 center" class="circle responsive-img">
                     <h4>@localizer["Codingame_Header"]</h4>
                     <h99><p class="left-align light">@localizer["Codingame_Body"]</p></h99>
                 </div>
@@ -52,7 +52,7 @@ private int TraverseGraph(int currentNode, int currentDepth) {
                     <h4>@localizer["PB_Header"]</h4>
                     <h99><p class="left-align light">@localizer["PB_Body"]</p></h99>
                 </div>
-                <div class="col co2" style="float:right; padding-left: 20px; max-width:70%;">
+                <div class="col co2" style="float:left; padding-right: 20px; max-width:70%; order: -1;">
                     <pre>
                     <code class="language-csharp">
 public class LineBehaviour : MonoBehaviour{
@@ -95,7 +95,6 @@ public class LineBehaviour : MonoBehaviour{
             string ExpectedResult = File.ReadAllText("TestData_CorrectFile_Result.txt");
             Assert.AreEqual(ExpectedResult, StringWriter.ToString().TrimEnd());
         }
-
                      </code>
             </pre>
                 </div>
@@ -111,7 +110,7 @@ public class LineBehaviour : MonoBehaviour{
                     <h4>@localizer["TWM_Header"]</h4>
                     <h99><p class="left-align light">@localizer["TWM_Body"]</p></h99>
                 </div>
-                <div class="col co4" style="float:right; padding-left: 20px; max-width:70%;">
+                <div class="col co4" style="float:left; padding-right: 20px; max-width:70%; order: -1;">
                     <pre>
                     <code class="language-csharp">
 inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
@@ -123,7 +122,6 @@ public IActionResult ChangeLanguage(string newLang) {
         new CookieOptions { Expires = DateTimeOffset.Now.AddDays(30) });
     return RedirectToAction(nameof(Index));
 }
-
                      </code>
             </pre>
                 </div>

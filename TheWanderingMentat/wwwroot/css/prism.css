@@ -30,7 +30,7 @@ pre[class*=language-] {
 }
 
 :not(pre) > code[class*=language-], pre[class*=language-] {
-    background: #001b54;
+    background: #1E1E1E;
     background-image: radial-gradient(rectangle, #001b54, #001b54, white);
 }
 
