@@ -14,14 +14,13 @@ html {
 }
 
 .btn {
-    background-color:black;
-    width:94%;
-    margin-left:3%;
-    align-items:center;
+    background-color: black;
+    width: 94%;
+    margin-left: 3%;
+    align-items: center;
 }
 
 .waves-effect waves-light btn {
-
 }
 
 nav ul a.btn, nav ul a.btn-large, nav ul a.btn-small, nav ul a.btn-large, nav ul a.btn-flat, nav ul a.btn-floating {
@@ -56,7 +55,6 @@ nav ul a.btn, nav ul a.btn-large, nav ul a.btn-small, nav ul a.btn-large, nav ul
 
 .pb-3 {
     padding-top: 20px;
-    
 }
 
 .left-align.light {
@@ -79,11 +77,21 @@ body {
 .navbar-nav custom-nav flex-row {
     margin-top: 50px;
 }
+
 .parallax {
-    height: 400px;
+    height: 800px;
 }
-.parallax-container-hawat {
-    width:100%;
-    height:100px;
-    background-color:orange;
+
+}
+
+.parallax-container {
+    max-width: 100%; /* set a maximum width of 100% of the parent container */
+    max-height: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+
+.parallax-container img{
+    z-index: -1;
+    width: 100%;
 }

@@ -25,6 +25,10 @@
       "PackagePath": "staticwebassets\\blue.png"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\line.png",
+      "PackagePath": "staticwebassets\\css\\line.png"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
       "PackagePath": "staticwebassets\\css\\materialize.css"
     },
