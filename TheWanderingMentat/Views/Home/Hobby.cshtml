@@ -1,16 +1,177 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
-@{
-}
-<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
-<link rel="stylesheet" href="~/TheWanderingMentat.styles.css" asp-append-version="true" />
-<link rel="stylesheet" href="~/css/materialize.css" />
-<link rel="stylesheet" href="~/css/menu.css" />
-<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+﻿@inject Microsoft.AspNetCore.Mvc.Localization.IViewLocalizer localizer
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Parallax Template - Materialize</title>
+
+    <!-- CSS  -->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="~/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+
+
+
+    <div class="container col l12">
+        <div class="row col l12">
+            <div class="section col l12">
+                <div class="col l12 center">
+                    <img class="left-align" src="~/icon_big.png" alt="Logo_Big" style="height: 330px; float: left; padding-right: 20px;">
+                    <h3><i class="mdi-content-send brown-text"></i></h3>
+                    <h4>@localizer["Intro_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["Intro_Text"]</p></h99>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+    <div id="index-banner" class="parallax-container">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <br><br>
+                @*<h1 class="header left black-text text-lighten-2"><p>@localizer["Greeting"]</p></h1>*@
+                <div class="row center">
+                </div>
+
+                <br><br>
+
+            </div>
+        </div>
+        <div class="parallax"><img src="background1.jpg" alt="Coder" style="height: 550px;"></div>
+    </div>
+
+
+    <div class="container">
+        <div class="section">
+
+            <!--   Icon Section   -->
+            <div class="row">
+                <div class="col s12 m3">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Code">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2>
+                            <h5 class="center">@localizer["Column1_Header"]</h5>
+
+                            <p class="light">@localizer["Column1_Text"]</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col s12 m4">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="CV">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">group</i></h2>
+                            <h5 class="center">@localizer["Column2_Header"]</h5>
+
+                            <p class="light">@localizer["Column2_Text"]</p>
+                        </div>
+                    </a>
+                </div>
+
+                <div class="col s12 m4">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Hobby">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+                            <h5 class="center">@localizer["Column3_Header"]</h5>
+
+                            <p class="light">@localizer["Column3_Text"]</p>
+                        </div>
+                    </a>
+                </div>
+                <div class="col s12 m4">
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="PuzzleBalls">
+                        <div class="icon-block">
+                            <h2 class="center brown-text"><i class="material-icons">settings</i></h2>
+                            <h5 class="center">@localizer["Column4_Header"]</h5>
+
+                            <p class="light">@localizer["Column4_Text"]</p>
+                        </div>
+                    </a>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <div class="parallax-container valign-wrapper">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <div class="row center">
+                    <h5 class="header col s12 light"></h5>
+                </div>
+            </div>
+        </div>
+        <div class="parallax"><img src="~/background2.png" alt="Trekker" style="height: 770px;"></div>
+    </div>
+
+    <div class="container">
+        <div class="section">
+            <div class="row">
+                <div class="col x1 center">
+                    <h4>@localizer["TeamPlayer_Header"]</h4>
+                    <h99><p class="left-align light">@localizer["TeamPlayer_Body"]</p></h99>
+                </div>
+                <div class="col l3 s12" style="float:right; padding-left: 20px; max-width:20%;">
+                    <h5 class="black-text">See me on:</h5>
+                    <ul>
+                        <li><a class="blue-text" href="https://www.codingame.com/profile/28ec275521df546d9a8dcb88b0cdeadb7061733">CodinGame.com</a></li>
+                        <li><a class="blue-text" href="https://github.com/TheHawat">GitHub</a></li>
+                        <li><a class="blue-text" href="https://www.linkedin.com/in/mholowaty/">LinkedIn</a></li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+    <div class="parallax-container valign-wrapper">
+        <div class="section no-pad-bot">
+            <div class="container">
+                <div class="row center">
+                    <h5 class="header col s12 light"></h5>
+                </div>
+            </div>
+        </div>
+        <div class="parallax"><img src="background3.jpg" alt="Friends" style="height: 900px"></div>
+    </div>
+
+
+
+
+
+
 -cooking
 -bike and trekkign
 -gaming
 -music
 -movies and theatre
 -digital art
+        <!--  Scripts-->
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="js/materialize.js"></script>
+    <script src="js/init.js"></script>
+
+</body>
+</html>

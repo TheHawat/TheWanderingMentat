@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.ico~"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
+      "PackagePath": "staticwebassets\\gamingbanner.png"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
       "PackagePath": "staticwebassets\\icon_big.png"
     },
@@ -311,6 +315,10 @@
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
+      "PackagePath": "staticwebassets\\line.png"
     },
     {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",

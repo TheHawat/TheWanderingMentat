@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/a0PSBP8Fin6xyuCQwSEtj4FweGL5SOpG1kOOyKEMs8=",
+  "Hash": "fnz/sgF2F/HBfFXNmDKWcESZtuMmf59+65sUy0jdA1w=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -270,6 +270,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico~"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "gamingbanner.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\gamingbanner.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
@@ -1358,6 +1375,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "line.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\line.png"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
