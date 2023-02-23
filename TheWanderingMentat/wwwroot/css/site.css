@@ -24,31 +24,3 @@ body {
     border: 1px solid #ccc;
 }
 
-.custom-nav {
-    display: flex;
-    justify-content: flex-end;
-    margin-left: auto;
-}
-
-.navbar {
-    position: fixed;
-    top: 0;
-    height: 60px;
-    width: 100%;
-    z-index: 9999;
-}
-
-.pb-3 {
-    padding-top: 80px;
-}
-
-body {
-    display: block;
-    margin: 0 auto;
-}
-
-.left-align.light {
-    text-align: justify;
-    font-weight: 450;
-    font-size: large;
-}

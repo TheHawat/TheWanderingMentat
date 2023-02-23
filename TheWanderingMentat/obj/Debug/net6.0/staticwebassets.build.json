@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5HAtcxxKk0xdZufiBX0wTsyZadAm1F4qC7lGmE/zjtc=",
+  "Hash": "/a0PSBP8Fin6xyuCQwSEtj4FweGL5SOpG1kOOyKEMs8=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -168,6 +168,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\materialize.min.css"
+    },
+    {
+      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
+      "SourceId": "TheWanderingMentat",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "BasePath": "_content/TheWanderingMentat",
+      "RelativePath": "css/menu.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\menu.css"
     },
     {
       "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",

@@ -33,6 +33,10 @@
       "PackagePath": "staticwebassets\\css\\materialize.min.css"
     },
     {
+      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
+      "PackagePath": "staticwebassets\\css\\menu.css"
+    },
+    {
       "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
       "PackagePath": "staticwebassets\\css\\prism.css"
     },
