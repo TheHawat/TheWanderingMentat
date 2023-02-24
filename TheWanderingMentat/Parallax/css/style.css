@@ -20,7 +20,7 @@ p {
 }
 
 .parallax-container {
-  min-height: 380px;
+  p
   line-height: 0;
   height: auto;
   color: rgba(255,255,255,.9);
@@ -55,3 +55,13 @@ p {
 footer.page-footer {
   margin: 0;
 }
+
+
+                <div class="col l3 s12" style="float:right; padding-left: 20px; max-width:20%;">
+                    <h5 class="black-text">See me on:</h5>
+                    <ul>
+                        <li><a class="blue-text" href="https://www.codingame.com/profile/28ec275521df546d9a8dcb88b0cdeadb7061733">CodinGame.com</a></li>
+                        <li><a class="blue-text" href="https://github.com/TheHawat">GitHub</a></li>
+                        <li><a class="blue-text" href="https://www.linkedin.com/in/mholowaty/">LinkedIn</a></li>
+                    </ul>
+                </div>
