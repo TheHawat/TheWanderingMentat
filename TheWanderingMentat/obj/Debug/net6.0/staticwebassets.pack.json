@@ -1,339 +1,339 @@
 {
   "Files": [
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css",
       "PackagePath": "staticwebassets\\TheWanderingMentat.bundle.scp.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background1.jpg",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background1.jpg",
       "PackagePath": "staticwebassets\\background1.jpg"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.png",
       "PackagePath": "staticwebassets\\background2.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background3.jpg",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background3.jpg",
       "PackagePath": "staticwebassets\\background3.jpg"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
       "PackagePath": "staticwebassets\\background33.jpg"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
       "PackagePath": "staticwebassets\\blue.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\line.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\line.png",
       "PackagePath": "staticwebassets\\css\\line.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
       "PackagePath": "staticwebassets\\css\\materialize.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.min.css",
       "PackagePath": "staticwebassets\\css\\materialize.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
       "PackagePath": "staticwebassets\\css\\menu.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
       "PackagePath": "staticwebassets\\css\\prism.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico~",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico~",
       "PackagePath": "staticwebassets\\favicon.ico~"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
       "PackagePath": "staticwebassets\\gamingbanner.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
       "PackagePath": "staticwebassets\\icon_big.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
       "PackagePath": "staticwebassets\\js\\FS.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
       "PackagePath": "staticwebassets\\js\\init.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.js",
       "PackagePath": "staticwebassets\\js\\materialize.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.min.js",
       "PackagePath": "staticwebassets\\js\\materialize.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
       "PackagePath": "staticwebassets\\js\\prism.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
       "PackagePath": "staticwebassets\\line.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
       "PackagePath": "staticwebassets\\plflag.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
       "PackagePath": "staticwebassets\\red.png"
     },
     {
-      "Id": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",
+      "Id": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",
       "PackagePath": "staticwebassets\\usflag.png"
     },
     {

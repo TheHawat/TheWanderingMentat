@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s5ay1Cbbd7AuhtgOi1xrFphjmcbFyBCMu/m7pLsgccg=",
+  "Hash": "0ksmCyUumH2ZhXaR9Ry9yzoQni/q3idswfmTbH3oGLU=",
   "Source": "TheWanderingMentat",
   "BasePath": "_content/TheWanderingMentat",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "TheWanderingMentat\\wwwroot",
       "Source": "TheWanderingMentat",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TheWanderingMentat.styles.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TheWanderingMentat.styles.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "TheWanderingMentat.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TheWanderingMentat.styles.css"
+      "OriginalItemSpec": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\bundle\\TheWanderingMentat.styles.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Computed",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "TheWanderingMentat.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TheWanderingMentat.bundle.scp.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background1.jpg",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background1.jpg",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "background1.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\background1.jpg"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background2.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "background2.png",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\background2.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background3.jpg",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background3.jpg",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "background3.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\background3.jpg"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\background33.jpg",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "background33.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\background33.jpg"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\blue.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "blue.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\blue.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\line.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\line.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/line.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\line.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/materialize.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\materialize.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\materialize.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/materialize.min.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\materialize.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\menu.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/menu.css",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\menu.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\prism.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/prism.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\prism.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\site.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\css\\style.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico~",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\favicon.ico~",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "favicon.ico~",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico~"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\gamingbanner.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "gamingbanner.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\gamingbanner.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\icon_big.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "icon_big.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\icon_big.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\FS.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/FS.js",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\js\\FS.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\init.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/init.js",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\js\\init.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/materialize.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\js\\materialize.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\materialize.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/materialize.min.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\js\\materialize.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\prism.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/prism.js",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\js\\prism.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\js\\site.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\line.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "line.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\line.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\plflag.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "plflag.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\plflag.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\red.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "red.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\red.png"
     },
     {
-      "Identity": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",
+      "Identity": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\usflag.png",
       "SourceId": "TheWanderingMentat",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Code\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\v-mholowaty\\source\\repos\\TheWanderingMentat\\TheWanderingMentat\\wwwroot\\",
       "BasePath": "_content/TheWanderingMentat",
       "RelativePath": "usflag.png",
       "AssetKind": "All",
