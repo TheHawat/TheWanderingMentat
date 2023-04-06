@@ -5,3 +5,7 @@ bin/
 obj/
 */bin/
 */obj/
+/obj/
+*/obj
+/obj
+**/obj
